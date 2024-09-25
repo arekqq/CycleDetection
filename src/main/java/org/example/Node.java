@@ -1,8 +1,5 @@
 package org.example;
 
-import java.util.List;
-import java.util.Set;
-
 public class Node {
     private final int value;
     private Node next;
@@ -17,7 +14,6 @@ public class Node {
     }
 
     public int getValue() {
-        Set.of().contains();
         return value;
     }
 
